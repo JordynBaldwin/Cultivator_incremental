@@ -6,7 +6,7 @@ body { margin: 0px; background-color: #777; }
 .scroll-y { overflow-y: auto; }
 
 .left.col { width: 250px; }
-.right.col { left: 250px; right: ; }
+.right.col { left: 350px; right: ; }
 .header.row { height: 75px; line-height: 75px; }
 .body.row { top: 75px; bottom: 50px; }
 .footer.row { height: 50px; bottom: ; line-height: 50px; }
